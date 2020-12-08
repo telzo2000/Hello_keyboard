@@ -120,5 +120,12 @@ MDF材に印刷したキーレイアウトを貼り付けたもの<br>
 ![](https://github.com/telzo2000/Hello_keyboard/blob/main/img/IMG_0055.JPG)
 その後、電動糸鋸で裁断していきます。<br>
 ![](https://github.com/telzo2000/Hello_keyboard/blob/main/img/IMG_0056.JPG)
-
-
+※ドリル穴を２か所開けるのは、電動糸鋸で裁断中に、鋸の向きを変える場所が必要だからです。穴１か所でも、作業はできます。<br> 
+![](https://github.com/telzo2000/Hello_keyboard/blob/main/img/IMG_0057.JPG)
+空いた穴に、キースイッチを挿し込みます。挿し込みがきついときは、やすり等で周囲を削って拡張します。<br>
+![](https://github.com/telzo2000/Hello_keyboard/blob/main/img/IMG_0058.JPG)
+この作業を全てのキースイッチ部分で行います。ちょっと時間がかかる作業ですので、疲れたら休むことがよい成果を生むと思います。<br>
+はじめて、この作業をしたときは、30数個開けるのに、４～５時間かかりました。材質がアクリルだったことも時間がかかった理由です。<br>
+![](https://github.com/telzo2000/Hello_keyboard/blob/main/img/IMG_0061.JPG)
+全ての穴が開いたら、それぞれにキースイッチを挿し込んでいきます。<br>
+![](https://github.com/telzo2000/Hello_keyboard/blob/main/img/IMG_0063.JPG)
