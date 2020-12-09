@@ -129,3 +129,11 @@ MDF材に印刷したキーレイアウトを貼り付けたもの<br>
 ![](https://github.com/telzo2000/Hello_keyboard/blob/main/img/IMG_0061.JPG)
 全ての穴が開いたら、それぞれにキースイッチを挿し込んでいきます。<br>
 ![](https://github.com/telzo2000/Hello_keyboard/blob/main/img/IMG_0063.JPG)
+全ての穴にキースイッチを挿し込んだら、この部分は終了です。<br>
+![](https://github.com/telzo2000/Hello_keyboard/blob/main/img/IMG_0064.JPG)
+
+次の段階では、いつでも便利なSU120を使って、キースイッチ一つ一つに取り付けて、配線処理を行います。<br>
+
+## ５　SU120の取り付け。
+
+
