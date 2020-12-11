@@ -139,6 +139,7 @@ MDF材に印刷したキーレイアウトを貼り付けたもの<br>
 kicadについてよくわからない初心者の私にとって、SU120や無限の可能性は、救世主となります。<br>
 ここではSU120での製作について書きます。詳細については、作者のHPが最適です。<br>
 https://github.com/e3w2q/su120-keyboard
+<br>
 作者の㏋を読んだ上で、ここを読み進めてください。<br>
 ![](https://github.com/telzo2000/Hello_keyboard/blob/main/img/IMG_0065.JPG)
 
