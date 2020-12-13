@@ -117,29 +117,63 @@ MDF材に印刷したキーレイアウトを貼り付けたもの<br>
 ![](img/IMG_0054.JPG)
 <br>
 キースイッチを一つ一つ、鋸で切り抜いていきます。最初に、電動ドリルを使って、鋸の歯を通す穴をあけます。<br>
-![](https://github.com/telzo2000/Hello_keyboard/blob/main/img/IMG_0055.JPG)
+![](img/IMG_0055.JPG)
 その後、電動糸鋸で裁断していきます。<br>
-![](https://github.com/telzo2000/Hello_keyboard/blob/main/img/IMG_0056.JPG)
+![](img/IMG_0056.JPG)
 ※ドリル穴を２か所開けるのは、電動糸鋸で裁断中に、鋸の向きを変える場所が必要だからです。穴１か所でも、作業はできます。<br> 
-![](https://github.com/telzo2000/Hello_keyboard/blob/main/img/IMG_0057.JPG)
+![](img/IMG_0057.JPG)
 空いた穴に、キースイッチを挿し込みます。挿し込みがきついときは、やすり等で周囲を削って拡張します。<br>
-![](https://github.com/telzo2000/Hello_keyboard/blob/main/img/IMG_0058.JPG)
+![](img/IMG_0058.JPG)
 この作業を全てのキースイッチ部分で行います。ちょっと時間がかかる作業ですので、疲れたら休むことがよい成果を生むと思います。<br>
 はじめて、この作業をしたときは、30数個開けるのに、４～５時間かかりました。材質がアクリルだったことも時間がかかった理由です。<br>
-![](https://github.com/telzo2000/Hello_keyboard/blob/main/img/IMG_0061.JPG)
+![](img/IMG_0061.JPG)
 全ての穴が開いたら、それぞれにキースイッチを挿し込んでいきます。<br>
-![](https://github.com/telzo2000/Hello_keyboard/blob/main/img/IMG_0063.JPG)
+![](img/IMG_0063.JPG)
 全ての穴にキースイッチを挿し込んだら、この部分は終了です。<br>
-![](https://github.com/telzo2000/Hello_keyboard/blob/main/img/IMG_0064.JPG)
+![](img/IMG_0064.JPG)
 
 次の段階では、いつでも便利なSU120を使って、キースイッチ一つ一つに取り付けて、配線処理を行います。<br>
 
-## ５　SU120の取り付け。
+## ５　SU120の取り付け
 ここでは基板部分の製作になります。<br>
 kicadについてよくわからない初心者の私にとって、SU120や無限の可能性は、救世主となります。<br>
 ここではSU120での製作について書きます。詳細については、作者のHPが最適です。<br>
 https://github.com/e3w2q/su120-keyboard
 <br>
 作者の㏋を読んだ上で、ここを読み進めてください。<br>
-![](https://github.com/telzo2000/Hello_keyboard/blob/main/img/IMG_0065.JPG)
+![](img/IMG_0065.JPG)
+
+今回は作者のHPにある、ガーバーファイルを発注して入手した黄色のPCBを使って作業をします。<br>
+初めてのSU120であれば、例えばTALP KEYBOARDさんで販売されている、<br>
+キットを購入した方が良いと思います。これに合わせて、MXソケットを必要分（私の場合は、43個必要なので、10個１セットを５セット）、pro microを必要分（私の場合は、分割するキーボードなので２個）購入することとなります。<br>
+よくキットを購入して、嬉しくて届いたら、MXソケットやpro microがなくて、ちょっと残念な気持ちでもう一度注文することがないようにしましょう。<br>
+
+### SU120 自作キーボード用基板（分割キーボードセット）
+https://talpkeyboard.stores.jp/items/5e7ede422a9a4210748af1eb
+### Kailh PCBソケット (MXスイッチ用/10Piece)
+https://talpkeyboard.stores.jp/items/5e02c5405b120c792616bcf9
+### Pro Micro ATmega32U4 5V/16MHz/MicroUSB2(互換品)
+https://talpkeyboard.stores.jp/items/5b24504ba6e6ee7ec60063e3
+
+
+理由は、初心者で何を用意すればわからない時ほど、このセットが便利だからです。<br>
+下の二つに関しては、遊舎工房さんやKochi Keyboardさんでも取り扱っています。<br>
+https://yushakobo.jp/
+<br>
+https://kochikeyboard.stores.jp/
+<br>
+<br>
+これで必要なものに慣れてから、私のように直接PCBをelecrow等に発注することもしてもよいのかなと思います。<br>
+<br>
+さて、ここでの手順は、次の通りです。<br>
+(1) 必要な形にSU120を切り分ける。<br>
+(2) SU120を配置する。<br>
+(3) 一度外してSU120のバリの処理をする。<br>
+(4) SU120にダイオード、MXソケット等をハンダ付けする。※１<br>
+(5) SU120を再び配置する。<br>
+(6) 必要なところに、切り取り余ったダイオードの足で接合する。<br>
+この作業の次というか、同時進行でケース作りもします。<br>
+<br>
+※１　pro microやリセットスイッチ、TRRSオーディオジャックのハンダ付けを一緒にする場合もあったり、後からする場合もあったりします。今回は、後からハンダ付けをしました。<br>
+<br>
 
