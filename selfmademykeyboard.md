@@ -383,7 +383,8 @@ https://mki0002ozlet.booth.pm/
 <br>
 　初心者の私も、今年になってキーボードを自作するようになりました。これまでのアドカレに記事を載せた先達が惜しみなく知識を公開してくださったおかげで、ここまでできるようになりました。改めて、御礼申し上げます。拙い文章ですが、私の説明が、誰かの役に立つであれば、幸いです。<br>
 <br>
-　この記事はMacBookとcool836Aで書きました。
+　この記事はMacBookとcool836Aで書きました。<br>
+ 続きは[ここ](https://github.com/telzo2000/Hello_keyboard/edit/main/selfmademykeyboard2.md)に書きました。<br>
 
 
 
