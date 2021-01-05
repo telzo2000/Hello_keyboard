@@ -1,6 +1,6 @@
 # 初心者の自作キーボードの作り方をします。<続き>
 <br>
-　キーボード #2 Advent Calendar 2020 - Adventar 15日目の記事の続きです。その後、どうなったかについて報告です。
+　[キーボード #2 Advent Calendar 2020 - Adventar](https://adventar.org/calendars/5307) [15日目の記事](https://github.com/telzo2000/Hello_keyboard/blob/main/selfmademykeyboard.md)の続きです。その後、どうなったかについて報告です。
 <br>
 　<br>
 
@@ -75,7 +75,7 @@
 
 #### 2　ラズパイの初期設定をする。
 
-　入門本の通り、最低限のことをする。この時点で、MZOCやVimを入れておく。ただ、私は非IT系なのでVimはよくわかりませんでした。ラズパイに標準でついているText Editorで処理しています。<br>
+　入門本の通り、最低限のことをする。この時点で、MOZCやVimを入れておく。ただ、私は非IT系なのでVimはよくわかりませんでした。ラズパイに標準でついているText Editorで処理しています。<br>
 
 #### 3　QMK_FIRMWAREを入手する。
 
@@ -107,6 +107,8 @@ qmk_firmware内のkeyboardsフォルダ内で、nomu30フォルダを探すと�
 
 
 ## 参考にしたサイト
+ラズパイで日本語入力する方法について
+https://www.indoorcorgielec.com/resources/raspberry-pi/raspberry-pi-input-japanese/
 
 ラズパイでのQMK環境構築について
 https://babe-mt.hatenablog.com/entry/2018/02/27/094353
