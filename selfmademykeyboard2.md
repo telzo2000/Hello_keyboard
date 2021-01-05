@@ -80,17 +80,17 @@
 #### 3　QMK_FIRMWAREを入手する。
 
 ①LXTerminalを起動する。次の言葉を入力する。<br>
-git clone https://github.com/qmk/qmk_firmware
+git clone https://github.com/qmk/qmk_firmware <br>
 しばらく時間がかかるけど、問題なくラズパイにダウンロードされます。<br>
 ②場所の確認をする。次の言葉を入力する。<br>
-ls
+ls <br>
 このあと、Desktop、Documentなどの表示の中に、qmk_firmwareがあれば、①の作業は成功しています。<br>
 ③場所を移動して、次の言葉を入力する。<br>
-cd qmk_firmware
+cd qmk_firmware <br>
 さらに、<br>
-make git-submodule
+make git-submodule <br>
 ちょっと時間かかると思いますが、待っていてください。これが終わったら、<br>
-util/qmk_install.sh
+util/qmk_install.sh <br>
 を入力してください。<br>
 
 
