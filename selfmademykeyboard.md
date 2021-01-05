@@ -386,7 +386,7 @@ https://mki0002ozlet.booth.pm/
 　この記事はMacBookとcool836Aで書きました。<br>
  <br>
  
- ### 続きは[ここ](https://github.com/telzo2000/Hello_keyboard/edit/main/selfmademykeyboard2.md)に書きました。<br>
+ ### 続きは、[ここ](https://github.com/telzo2000/Hello_keyboard/blob/main/selfmademykeyboard2.md)に書きました。<br>
 
 
 
