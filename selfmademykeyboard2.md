@@ -1,6 +1,6 @@
 # 初心者の自作キーボードの作り方をします。<続き>
 <br>
-[キーボード #2 Advent Calendar 2020 - Adventar](https://adventar.org/calendars/5307)[15日目の記事](https://github.com/telzo2000/Hello_keyboard/blob/main/selfmademykeyboard.md)の続きです。その後、どうなったかについて報告です。
+[キーボード #2 Advent Calendar 2020 - Adventar](https://adventar.org/calendars/5307)の[15日目の記事](https://github.com/telzo2000/Hello_keyboard/blob/main/selfmademykeyboard.md)の続きです。その後、どうなったかについて報告です。
 <br>
 　<br>
 
