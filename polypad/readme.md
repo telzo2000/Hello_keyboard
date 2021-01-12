@@ -2,6 +2,9 @@
 
 ![polypad](imgur.com image replace me!)
 
+TALP KEYBOARDさんからプレンゼントとして頂いたものです。qmk_firmwareがないとのことだったので、自分で作成してみました。<br>
+まだ、ファームウェアだけ作って、ハードウェアはまだ作っていません。<br>
+
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [m.ki](https://github.com/yourusername)
