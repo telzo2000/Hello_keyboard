@@ -114,9 +114,11 @@ qmk_firmware内のkeyboardsフォルダ内で、nomu30フォルダを探すと�
 
 ## 参考にしたサイト
 ラズパイで日本語入力する方法について
+
 https://www.indoorcorgielec.com/resources/raspberry-pi/raspberry-pi-input-japanese/
 
 ラズパイでのQMK環境構築について
+
 https://babe-mt.hatenablog.com/entry/2018/02/27/094353
 
 https://stupiddog.jp/note/archives/1599
@@ -124,7 +126,10 @@ https://stupiddog.jp/note/archives/1599
 http://ne-zu-ppo.blogspot.com/2020/
 
 SU120でQMK FIRMWAREの作成について
+
 https://k-kuro.hatenadiary.jp/entry/20200927/1601192264
+
+<br>
 
 
 # まとめ
