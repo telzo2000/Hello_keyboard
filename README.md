@@ -14,3 +14,8 @@
 これは40PERCENT CLUBが設計したPOLYANDYです。TALP KEYBOARDさんが令和２年１２月下旬にプレゼントキャンペーンを実施し、m.kiが頂いたものです。<br>
 qmk_firmwareに対応していなかったため、ちょうど、この時期にラズパイ環境下でqmk_firmwareが使えるようになったので、自分への課題として、自力でファームウェアを作りました。<br>
 区分上、polypadと名付けました。<br>
+<br>
+
+### アドベントカレンダー2020　15日目記事
+その１https://github.com/telzo2000/Hello_keyboard/blob/main/selfmademykeyboard.md
+その２https://github.com/telzo2000/Hello_keyboard/blob/main/selfmademykeyboard2.md
