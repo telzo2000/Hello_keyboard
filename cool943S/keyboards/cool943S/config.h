@@ -63,16 +63,16 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //#define BACKLIGHT_LEVELS 3
 //#define BACKLIGHT_BREATHING
 //#undef RGBLED_NUM
-//#define RGB_DI_PIN E2
-//#ifdef RGB_DI_PIN
-//#    define RGBLED_NUM 10
-//#    define RGBLIGHT_HUE_STEP 8
-//#    define RGBLIGHT_SAT_STEP 8
-//#    define RGBLIGHT_VAL_STEP 8
+//#define RGB_DI_PIN E2 ここをいじる。ピンの名称を確認。
+//#ifdef RGB_DI_PIN　ここをいじる。
+//#    define RGBLED_NUM 10　ここをいじる。836では６を入れている。
+//#    define RGBLIGHT_HUE_STEP 8　ここをいじる。
+//#    define RGBLIGHT_SAT_STEP 8　ここをいじる。
+//#    define RGBLIGHT_VAL_STEP 8　ここをいじる。
 //#    define RGBLIGHT_LIMIT_VAL 255 /* The maximum brightness level */
 //#    define RGBLIGHT_SLEEP  /* If defined, the RGB lighting will be switched off when the host goes to sleep */
 /*== all animations enable ==*/
-//#    define RGBLIGHT_ANIMATIONS
+//#    define RGBLIGHT_ANIMATIONS　ここをいじる。
 /*== or choose animations ==*/
 //#    define RGBLIGHT_EFFECT_BREATHING
 //#    define RGBLIGHT_EFFECT_RAINBOW_MOOD
