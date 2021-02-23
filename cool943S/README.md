@@ -3,6 +3,11 @@
 ☑︎ファームウェアの用意<br>
 <br>
 
+# 発注ガーバーファイル名
+Ver.1　gbrcool943S20210212.zip,cool943Scasedesigntop.zip,cool943Scasedesignbottom.zip　<br>
+
+<br>
+
 # cool943S開発に至った経緯
 
 cool943Sは、m.ki設計の自作キーボードです。cool836Aの次の自作キーボードとして、三桁の数字の左はじめに９が付きます。その次の二桁には、採用されたキー数として43と付きます。末尾のSはSplit（分割型）を意味しています。「coolな９番目の43キーある分割型キーボード」となります。<br>
