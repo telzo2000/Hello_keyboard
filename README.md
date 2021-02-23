@@ -8,6 +8,7 @@
 ・40%キーボード<br>
 ・分割型（スプリット）<br>
 令和３年中にkicadで設計する予定です。<br>
+詳細は[こちら](https://github.com/telzo2000/Hello_keyboard/blob/main/cool943S/README.md)にあります。
 <br>
 
 ### polypad
