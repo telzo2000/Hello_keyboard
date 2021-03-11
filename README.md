@@ -17,6 +17,11 @@ qmk_firmwareに対応していなかったため、ちょうど、この時期�
 区分上、polypadと名付けました。<br>
 <br>
 
+### daughterboard for cool844
+　これはcool844で使用するために、既存の部品を組み合わせて作ったものです。秋月電子通称で販売している「[ＵＳＢｔｙｐｅ－ＣコネクタＤＩＰ化キット（シンプル版エコノミータイプ）](https://akizukidenshi.com/catalog/g/gK-15426/)」と「[ケーブル取付用ＵＳＢコネクタ（ｍｉｃｒｏＢタイプ、オス）](https://akizukidenshi.com/catalog/g/gC-07666/)」をシリコンケーブル線で繋いだものです。これにより、pro microにおける抜き挿しの多様によるもげる状況を回避しつつ、USB Type-Cが使えるようになります。誰でも思いつくものです。「daughterboard for cool844」と名付けましたが、何の意味もなく、ただ、自分の中でわかりやすくしただけです。<br>
+ 作成方法は[こちら]()になります。<br>
+
+
 ### アドベントカレンダー2020　15日目記事
 その１https://github.com/telzo2000/Hello_keyboard/blob/main/selfmademykeyboard.md
 <br>
