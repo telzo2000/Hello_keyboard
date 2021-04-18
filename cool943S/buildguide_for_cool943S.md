@@ -38,7 +38,7 @@ cool943Sは、m.kiが設計した40％分割キーボードです。
 <br>
 ## ２　ファームウェアについて
 cool943Sはyouichiro氏の開発したREMAPにて、キーレイアウトの編集ができます。<br>
-次の[Hexファイル](https://github.com/telzo2000/Hello_keyboard/blob/main/cool943S/keyboards/cool943S/cool943S_via.hex)をダウンロードしてください。そして、QMK TOOLBOXにてPro microへの書き込みをしてください。<br>
+次の[Hexファイル](https://github.com/telzo2000/Hello_keyboard/blob/main/cool943S/cool943S_via.hex)をダウンロードしてください。そして、QMK TOOLBOXにてPro microへの書き込みをしてください。<br>
 REMAPで作業するための[Jsonファイル](https://github.com/telzo2000/Hello_keyboard/blob/main/cool943S/cool943S_remap.json)はこちらにあります。<br>
 chromeを起動して、「REMAP」と検索し、REMAPのサイトへアクセスしてください。<br>
 ## ３　色塗り
