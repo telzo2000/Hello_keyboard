@@ -30,3 +30,6 @@ qmk_firmwareに対応していなかったため、ちょうど、この時期�
 <br>
 その２https://github.com/telzo2000/Hello_keyboard/blob/main/selfmademykeyboard2.md
 <br>
+
+### アドベントカレンダー2021 25日目記事
+ 
