@@ -26,12 +26,16 @@ qmk_firmwareに対応していなかったため、ちょうど、この時期�
 
 
 ### アドベントカレンダー2020　15日目記事
-その１https://github.com/telzo2000/Hello_keyboard/blob/main/selfmademykeyboard.md
+初心者の自作キーボードの作り方をします。<br>
+その１
+https://github.com/telzo2000/Hello_keyboard/blob/main/selfmademykeyboard.md
 <br>
-その２https://github.com/telzo2000/Hello_keyboard/blob/main/selfmademykeyboard2.md
+その２
+https://github.com/telzo2000/Hello_keyboard/blob/main/selfmademykeyboard2.md
 <br>
 
 
 ### アドベントカレンダー2021 25日目記事
+「poker互換の60％汎用キーボードケースを使用する自作キーボードに関する一考察-cool844における活用法-」
 https://github.com/telzo2000/Hello_keyboard/blob/main/selfmademykeyboard3.md
 
