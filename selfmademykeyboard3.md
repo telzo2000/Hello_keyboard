@@ -3,7 +3,7 @@
 　キーボード #2 Advent Calendar 2021 - Adventar 25日目の記事です。<br>
 https://adventar.org/calendars/6280
 <br>
-　クリスマスイブの24日目はあんりあるさんの「ディスプレイをモジュール化してキーボードを作るぞ（nowpad）」でした。
+　クリスマスイブの24日目はあんりあるさんの「ディスプレイをモジュール化してキーボードを作るぞ（nowpad）」でした。<br>
 https://qiita.com/unreal5050/items/ae9a4b11164f94538778
 
 <br>
