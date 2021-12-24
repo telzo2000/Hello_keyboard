@@ -1,6 +1,7 @@
 # poker互換の60％汎用キーボードケースを使用する自作キーボードに関する一考察 -coo844における活用方法-
 
-　キーボード #2 Advent Calendar 2021 - Adventar 25日目の記事です。
+　キーボード #2 Advent Calendar 2021 - Adventar 25日目の記事です。<br>
+https://adventar.org/calendars/6280
 <br>
 　クリスマスイブの24日目はあんりあるさんの「ディスプレイをモジュール化してキーボードを作るぞ（nowpad）」でした。
 https://qiita.com/unreal5050/items/ae9a4b11164f94538778
