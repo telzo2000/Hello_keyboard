@@ -386,6 +386,9 @@ RP2040-Zero採用の[cool836rp](https://github.com/telzo2000/cool836rp)
 ![](img/img0031.jpg)
 
 
+
+
+<br>
 <br>
 　pro microの固執することなく、RP2040を使ったボードを使うことで、汎用ケースを使う自作キーボードは容易になるかもしれません。
 <br>
