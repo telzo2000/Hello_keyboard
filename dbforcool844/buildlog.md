@@ -49,6 +49,6 @@ GND＜ーーーーーーー＞5V-<br>
 <br>
 これでdaughterboard for cool844の完成です。<br>
 
-プルリク練習
+
 
 
