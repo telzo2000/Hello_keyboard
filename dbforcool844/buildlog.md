@@ -50,3 +50,5 @@ GND＜ーーーーーーー＞5V-<br>
 これでdaughterboard for cool844の完成です。<br>
 
 
+
+
