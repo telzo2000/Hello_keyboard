@@ -13,7 +13,7 @@ ElecrowやJLCPCBでは、四方が１０センチメートル以内の大きさ�
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">PCBが100mmX100mm内の大きさで、<a href="https://twitter.com/hashtag/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89?src=hash&amp;ref_src=twsrc%5Etfw">#自作キーボード</a> が作れるかなと思い、挑戦しました。先日はPCBが150mmX100mmで <a href="https://twitter.com/hashtag/cool650?src=hash&amp;ref_src=twsrc%5Etfw">#cool650</a> になったので、今回は <a href="https://twitter.com/hashtag/cool640?src=hash&amp;ref_src=twsrc%5Etfw">#cool640</a> として、二つをケーブルで繋ぐと格子配列の分割になります。新しいこととして、<a href="https://twitter.com/hashtag/promicro?src=hash&amp;ref_src=twsrc%5Etfw">#promicro</a> と <a href="https://twitter.com/hashtag/%E3%83%A9%E3%82%BA%E3%83%91%E3%82%A4Pico?src=hash&amp;ref_src=twsrc%5Etfw">#ラズパイPico</a> に対応してみます。 <a href="https://t.co/dft7Hg7RUM">pic.twitter.com/dft7Hg7RUM</a></p>&mdash; m.ki（エム キ） (@0002ozlet) <a href="https://twitter.com/0002ozlet/status/1496460445955280901?ref_src=twsrc%5Etfw">February 23, 2022</a></blockquote>
 
 <br>
-
+<blockquote class=”twitter-tweet” data-conversation=”none”><a href=”https://twitter.com/0002ozlet/status/1496460445955280901?s=20&t=u6tKbMU_bZ7NDJVUOp2oxw”></a></blockquote>
 
 
 イメージ的にMCU部分は、pro microがスイッチ2個分、パイピコが3個分のスペースで置けるだろうし、その間にTRRSジャック一つ分の余裕があれば、何とかなるかなと考えました。そうなると、キー数は横5キーで、縦4キーの格子配列が適当だろうと、徐々に方針がさだまってきました。ちょうど、夜の散歩中に、妄想しながら、方向性を詰めていきました。
