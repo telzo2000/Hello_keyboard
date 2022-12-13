@@ -15,6 +15,7 @@ pro microのみで動くのであれば、目新しさもないと思い、cool8
 あとは設計です。Keyboard Layout Editerのサイトで、片手分20キーの格子配列を作りました。そして、jsonファイルを書き出して、kicadのプラグインで読み込むと、あっという間に配列されたものができました。ちょっと仕事の休みをもらっていたので、時間があったのですぐに作業に取り掛かることができました。
 <br>
 <br>
+
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">PCBが100mmX100mm内の大きさで、<a href="https://twitter.com/hashtag/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89?src=hash&amp;ref_src=twsrc%5Etfw">#自作キーボード</a> が作れるかなと思い、挑戦しました。先日はPCBが150mmX100mmで <a href="https://twitter.com/hashtag/cool650?src=hash&amp;ref_src=twsrc%5Etfw">#cool650</a> になったので、今回は <a href="https://twitter.com/hashtag/cool640?src=hash&amp;ref_src=twsrc%5Etfw">#cool640</a> として、二つをケーブルで繋ぐと格子配列の分割になります。新しいこととして、<a href="https://twitter.com/hashtag/promicro?src=hash&amp;ref_src=twsrc%5Etfw">#promicro</a> と <a href="https://twitter.com/hashtag/%E3%83%A9%E3%82%BA%E3%83%91%E3%82%A4Pico?src=hash&amp;ref_src=twsrc%5Etfw">#ラズパイPico</a> に対応してみます。 <a href="https://t.co/dft7Hg7RUM">pic.twitter.com/dft7Hg7RUM</a></p>&mdash; m.ki（エム キ） (@0002ozlet) <a href="https://twitter.com/0002ozlet/status/1496460445955280901?ref_src=twsrc%5Etfw">February 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
