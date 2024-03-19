@@ -17,4 +17,20 @@ m.kの日常使う環境で、Remapが不安定な挙動をすることがあり
 
 ### インストールの手順
 
+QMK Toolboxを入手し、PCにインストールしてください。
+<br>
+次にm.ki設計の自作キーボードhexファイルを、関係するgithubのfirmwareの中から見つけて下さい。見つけたら、自分のPC上にダウンロードしておいて下さい。
+<br>
+PCとpro microをUSBケーブルで繋いで下さい。
+<br>
+QMK Toolboxを立ち上げて下さい。
+<br>
+
+
+
+
+## RP2040系MCUボードの場合
+
+2021年秋頃より、m.kiはRaspberry pi picoやRP2040-ZeroのRP2040系MCUボードを使用したcool836pico、cool836rp 、cool640を設計した。当初は、QMK_firmwareに対応していなかった為、PRK_firmwareでファームウェアを作成した。その後、対応してから設計した自作キーボードはQMK_firmwareでファームウェアを作成している
+
 
