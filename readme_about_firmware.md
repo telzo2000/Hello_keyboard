@@ -5,6 +5,9 @@ m.ki設計の自作キーボードについて、MCUボードへファームウ�
 ここでは、主にQMK_Firmwareについて説明します。
 <br>
 
+![](img/img0037.png)
+（参考画像：jisaku20シリーズのfirmwareフォルダ）
+
 ## pro microの場合
 
 ### 最初に
